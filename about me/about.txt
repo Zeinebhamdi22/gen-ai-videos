@@ -1,0 +1,29 @@
+🎥 My First AI-Generated Video : A Project About Me
+
+This project showcases my first AI-generated video ,a creative piece that represents who I am. 
+It blends storytelling, AI tools, and creative editing to produce a unique personal introduction.
+
+ 🧠 Tools & Technologies Used
+
+Here’s a breakdown of the tools I used to bring this video to life:
+
+- ChatGPT: for writing the video script and generating creative prompts.
+- RunwayML: for generating the video content using AI-powered video models.
+- Suno AI: to generate background music that complements the mood and style of the video.
+- ElevenLabs: to synthesize human-like speech for the voiceover.
+- Clipchamp: for editing and assembling the final video (montage).
+
+ 💡 Why This Project?
+
+I wanted to explore the capabilities of Generative AI and combine different models into a single pipeline — from text to speech, video, music, and final editing. 
+This project represents my identity, my technical creativity, and my passion for AI.
+
+🕒 Project Timeline
+
+- ✅ Step 1:Wrote the script using ChatGPT
+- 🎨 Step 2:Generated video scenes with Runway
+- 🎶 Step 3:Created background music using Suno
+- 🗣️ Step 4:Generated speech with ElevenLabs
+- 🎬 Step 5:Edited and finalized the video in Clipchamp
+- 🚀 Step 6:Published the video
+
