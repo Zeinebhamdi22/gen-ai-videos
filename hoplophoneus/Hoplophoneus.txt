@@ -1,0 +1,18 @@
+# 🐾 Hoplophoneus – AI-Generated Video
+
+This project showcases a short video and GIF of **Hoplophoneus**, an extinct prehistoric predator, created entirely with Generative AI tools. From concept to final visuals, this project explores how AI can bring ancient creatures back to life — digitally.
+
+
+## 🛠️ Tools Used
+
+- **ChatGPT (OpenAI)**: For generating descriptive prompts and refining the visual concept of Hoplophoneus.
+- **RunwayML**: Used to generate the video and convert it into a high-quality GIF.
+
+## 🎬 Project Workflow
+
+1. 💡 **Prompt Creation**: I described the appearance and style of Hoplophoneus using ChatGPT.
+2. 🖼️ **Image Generation**: ChatGPT turned the prompts into visual scenes.
+3. 🎥 **Video Creation**: RunwayML animated the scenes to create a short video clip.
+4. 🌀 **GIF Export**: A looping GIF was generated from the video using Runway’s export tools.
+
+
