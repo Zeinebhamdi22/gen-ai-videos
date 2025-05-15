@@ -18,6 +18,9 @@ Here’s a breakdown of the tools I used to bring this video to life:
 I wanted to explore the capabilities of Generative AI and combine different models into a single pipeline — from text to speech, video, music, and final editing. 
 This project represents my identity, my technical creativity, and my passion for AI.
 
+📽️ Watch the Video: 
+👉[https://drive.google.com/file/d/1Yeh_ZZMvXDGBnyKcE_jq9Qe7oGgOaPdT/view?usp=sharing]
+
 🕒 Project Timeline
 
 - ✅ Step 1:Wrote the script using ChatGPT
